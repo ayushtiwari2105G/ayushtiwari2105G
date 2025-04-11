@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&multiline=true&width=500&lines=🌱+Bio+meets+Code;💡+Exploring+Nanotech;🔬+Microbes+in+AgTech;🚀+AI+Green+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=6A5ACD&center=true&vCenter=true&multiline=true&width=300&lines=🌱+Bio+meets+Code;🔬+Microbes+in+AgTech;💡+Nanotech+Research;🚀+Green+AI+Solutions" alt="Typing SVG" />
 </p>
 
 ---
