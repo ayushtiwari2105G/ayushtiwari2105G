@@ -69,9 +69,8 @@ I believe in learning by doing — and my projects reflect my journey of continu
 ---
 
 ## 📫 Connect With Me
-
-- 💼 LinkedIn: (Add your link here)  
-- 📧 Email: (Add your email here)  
+  
+- 📧 Email: (ayush.23boe10128@vitbhopal.ac.in)  
 
 ---
 
